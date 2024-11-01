@@ -1,0 +1,52 @@
+# Diretórios e arquivos do Dart
+*.dart_tool/
+*.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+*.iml
+
+# Diretórios de build
+build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner.xcworkspace/
+macos/Flutter/ephemeral/
+windows/Flutter/ephemeral/
+linux/Flutter/ephemeral/
+
+# Arquivos de cache
+*.lock
+*.log
+*.tmp
+*.temp
+*.swp
+*.DS_Store
+
+# Arquivos de sistema operacional
+Thumbs.db
+.DS_Store
+
+# Certificados e chaves
+*.jks
+*.keystore
+*.pem
+*.p12
+*.key
+*.crt
+
+# Arquivos de configuração do Android
+android/.gradle/
+android/app/debug.keystore
+android/local.properties
+android/app/proguard-rules.pro
+android/app/google-services.json
+android/key.properties

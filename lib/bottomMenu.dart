@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/*import 'package:flutter/material.dart';
 
 void main() => runApp(ExemploInicial());
 
@@ -45,3 +45,4 @@ class _ExemploInicial extends State {
     );
   }
 }
+*/
